@@ -35,5 +35,5 @@ jobs:
       
     - name: Build with Gradle
       run: gradle clean
-    - name: Package with Gradle
-      run: gradle package
+    - name: Execute Gradle build
+      run: ./gradlew build
