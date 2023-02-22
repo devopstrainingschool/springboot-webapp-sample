@@ -1,5 +1,5 @@
 # This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
+# They are provided by a third-party and are governed byqqq
 # separate terms of service, privacy policy, and support
 # documentation.
 # This workflow will build a package using Gradle and then publish it to GitHub packages when a release is created
